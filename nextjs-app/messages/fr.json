@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "mission": "Mission",
+    "approach": "Approche",
+    "expertise": "Expertise",
+    "results": "Résultats",
+    "contact": "Contact",
+    "cta1": "Contactez-nous",
+    "cta2": "Demander une démo"
+  },
+  "hero": {
+    "headline": "L'Expert de la Performance Commerciale à Distance",
+    "subheadline": "Nous transformons chaque interaction en opportunité commerciale grâce à notre expertise en vente à distance et notre approche sur-mesure.",
+    "cta": "Découvrez nos services"
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "subtitle": "Qui Sommes-Nous",
+    "content": "Chez Semecall, notre mission est de transformer chaque interaction en une opportunité commerciale. Nous déclenchons la décision d'achat grâce à notre expertise en vente à distance et notre engagement envers la performance. Notre philosophie repose sur l'excellence opérationnelle et la création de valeur pour nos clients.",
+    "value1": "Excellence Opérationnelle",
+    "value2": "Orientation Résultats",
+    "value3": "Engagement Performance"
+  },
+  "approach": {
+    "title": "Une Approche Sur-Mesure",
+    "subtitle": "Votre Succès, Notre Priorité",
+    "content": "Chaque entreprise est unique. C'est pourquoi nous construisons des stratégies personnalisées pour maximiser votre retour sur investissement. Notre équipe formée, engagée et orientée résultats utilise des outils de gestion et de suivi haute performance.",
+    "feature1": "Équipe Formée & Engagée",
+    "feature2": "Stratégies Personnalisées",
+    "feature3": "Outils Haute Performance",
+    "feature4": "ROI Maximisé",
+    "cta": "En savoir plus"
+  },
+  "expertise": {
+    "title": "Notre Expertise",
+    "subtitle": "Des Services Complets Pour Votre Croissance",
+    "services": {
+      "prospecting": {
+        "title": "Prospection B2B / B2C",
+        "description": "Identification et qualification de prospects à fort potentiel pour développer votre portefeuille client."
+      },
+      "appointments": {
+        "title": "Prise de Rendez-vous Qualifiés",
+        "description": "Organisation de rendez-vous qualifiés avec des décideurs pour optimiser votre force de vente terrain."
+      },
+      "followup": {
+        "title": "Suivi Commercial & Nurturing",
+        "description": "Accompagnement de vos prospects dans leur parcours d'achat pour maximiser les conversions."
+      },
+      "retention": {
+        "title": "Fidélisation & Réactivation",
+        "description": "Maintien de la relation client et réactivation de votre portefeuille pour optimiser la valeur client."
+      },
+      "surveys": {
+        "title": "Enquêtes de Satisfaction",
+        "description": "Mesure de la satisfaction client et études de marché pour orienter vos décisions stratégiques."
+      },
+      "support": {
+        "title": "Support Client & Back Office",
+        "description": "Gestion professionnelle de votre relation client et support administratif des ventes."
+      }
+    },
+    "cta": "Voir toute notre expertise"
+  },
+  "results": {
+    "title": "Des Résultats Tangibles",
+    "subtitle": "L'Efficacité de Nos Services en Chiffres",
+    "benefits": {
+      "conversion": {
+        "title": "Taux de Conversion Optimisés",
+        "description": "Amélioration significative de vos taux de conversion grâce à notre expertise."
+      },
+      "time": {
+        "title": "Gain de Temps",
+        "description": "Libérez vos équipes terrain pour se concentrer sur la conclusion des ventes."
+      },
+      "coverage": {
+        "title": "Couverture Élargie",
+        "description": "Meilleure couverture de vos marchés cibles et expansion géographique."
+      },
+      "brand": {
+        "title": "Image de Marque Renforcée",
+        "description": "Représentation professionnelle qui valorise votre image de marque."
+      }
+    },
+    "cta": "Nos études de cas"
+  },
+  "trusted": {
+    "title": "Ils Nous Font Confiance",
+    "subtitle": "Des Partenaires de Référence"
+  },
+  "multilingual": {
+    "title": "Couverture Multilingue",
+    "subtitle": "Une Portée Internationale",
+    "content": "Notre équipe multilingue vous permet d'opérer à l'international en toute confiance. Nous couvrons vos marchés dans plusieurs langues.",
+    "languages": {
+      "french": "Français",
+      "english": "Anglais",
+      "arabic": "Arabe",
+      "dutch": "Néerlandais",
+      "spanish": "Espagnol",
+      "german": "Allemand"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Discutons de Vos Besoins",
+    "cta": "Contactez-nous dès aujourd'hui pour une démo ou un audit gratuit de vos besoins commerciaux.",
+    "form": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "company": "Entreprise",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "consent": "J'accepte que Semecall utilise mes données pour me contacter.",
+      "submit": "Envoyer",
+      "success": "Votre message a été envoyé avec succès !",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse"
+    }
+  },
+  "footer": {
+    "quickLinks": "Liens Rapides",
+    "links": {
+      "home": "Accueil",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "legal": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions Générales de Vente",
+      "notice": "Mentions Légales"
+    },
+    "copyright": "© {year} Semecall. Tous droits réservés.",
+    "followUs": "Suivez-nous"
+  }
+}
+

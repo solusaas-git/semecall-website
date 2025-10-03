@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Home",
+    "mission": "Missie",
+    "approach": "Aanpak",
+    "expertise": "Expertise",
+    "results": "Resultaten",
+    "contact": "Contact",
+    "cta1": "Neem Contact Op",
+    "cta2": "Vraag een Demo Aan"
+  },
+  "hero": {
+    "headline": "De Expert in Verkoop op Afstand Prestaties",
+    "subheadline": "We veranderen elke interactie in een zakelijke kans door onze expertise in verkoop op afstand en onze maatwerkbenadering.",
+    "cta": "Ontdek Onze Diensten"
+  },
+  "mission": {
+    "title": "Onze Missie",
+    "subtitle": "Wie Zijn We",
+    "content": "Bij Semecall is onze missie om elke interactie om te zetten in een zakelijke kans. We triggeren de aankoopbeslissing door onze expertise in verkoop op afstand en onze toewijding aan prestaties. Onze filosofie is gebaseerd op operationele uitmuntendheid en het creëren van waarde voor onze klanten.",
+    "value1": "Operationele Uitmuntendheid",
+    "value2": "Resultaatgericht",
+    "value3": "Prestatie Toewijding"
+  },
+  "approach": {
+    "title": "Een Maatwerkbenadering",
+    "subtitle": "Uw Succes, Onze Prioriteit",
+    "content": "Elk bedrijf is uniek. Daarom bouwen we gepersonaliseerde strategieën om uw rendement op investering te maximaliseren. Ons getrainde, betrokken en resultaatgerichte team gebruikt hoogwaardige beheer- en monitoringtools.",
+    "feature1": "Getraind & Betrokken Team",
+    "feature2": "Gepersonaliseerde Strategieën",
+    "feature3": "Hoogwaardige Tools",
+    "feature4": "Gemaximaliseerde ROI",
+    "cta": "Meer Informatie"
+  },
+  "expertise": {
+    "title": "Onze Expertise",
+    "subtitle": "Complete Diensten Voor Uw Groei",
+    "services": {
+      "prospecting": {
+        "title": "B2B / B2C Prospectie",
+        "description": "Identificatie en kwalificatie van hoogwaardige prospects om uw klantenportfolio te ontwikkelen."
+      },
+      "appointments": {
+        "title": "Gekwalificeerde Afspraakplanning",
+        "description": "Organisatie van gekwalificeerde afspraken met besluitvormers om uw buitendienst te optimaliseren."
+      },
+      "followup": {
+        "title": "Verkoopopvolging & Nurturing",
+        "description": "Ondersteuning van uw prospects tijdens hun aankooptraject om conversies te maximaliseren."
+      },
+      "retention": {
+        "title": "Retentie & Reactivering",
+        "description": "Onderhoud van klantrelaties en reactivering van uw portfolio om klantwaarde te optimaliseren."
+      },
+      "surveys": {
+        "title": "Tevredenheidsenquêtes",
+        "description": "Meting van klanttevredenheid en marktonderzoek om uw strategische beslissingen te begeleiden."
+      },
+      "support": {
+        "title": "Klantenondersteuning & Back Office",
+        "description": "Professioneel beheer van uw klantrelaties en administratieve verkoopondersteuning."
+      }
+    },
+    "cta": "Bekijk Al Onze Expertise"
+  },
+  "results": {
+    "title": "Tastbare Resultaten",
+    "subtitle": "De Effectiviteit van Onze Diensten in Cijfers",
+    "benefits": {
+      "conversion": {
+        "title": "Geoptimaliseerde Conversiepercentages",
+        "description": "Aanzienlijke verbetering van uw conversiepercentages door onze expertise."
+      },
+      "time": {
+        "title": "Tijdsbesparing",
+        "description": "Bevrijd uw buitendienstteams om zich te concentreren op het afsluiten van verkopen."
+      },
+      "coverage": {
+        "title": "Uitgebreide Dekking",
+        "description": "Betere dekking van uw doelmarkten en geografische expansie."
+      },
+      "brand": {
+        "title": "Versterkt Merkimago",
+        "description": "Professionele vertegenwoordiging die uw merkimago versterkt."
+      }
+    },
+    "cta": "Onze Casestudies"
+  },
+  "trusted": {
+    "title": "Vertrouwd Door",
+    "subtitle": "Referentiepartners"
+  },
+  "multilingual": {
+    "title": "Meertalige Dekking",
+    "subtitle": "Internationaal Bereik",
+    "content": "Ons meertalig team stelt u in staat om met vertrouwen internationaal te opereren. We dekken uw markten in meerdere talen.",
+    "languages": {
+      "french": "Frans",
+      "english": "Engels",
+      "arabic": "Arabisch",
+      "dutch": "Nederlands",
+      "spanish": "Spaans",
+      "german": "Duits"
+    }
+  },
+  "contact": {
+    "title": "Neem Contact Op",
+    "subtitle": "Laten We Uw Behoeften Bespreken",
+    "cta": "Neem vandaag contact met ons op voor een demo of een gratis audit van uw zakelijke behoeften.",
+    "form": {
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "company": "Bedrijf",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "message": "Bericht",
+      "consent": "Ik ga ermee akkoord dat Semecall mijn gegevens gebruikt om contact met mij op te nemen.",
+      "submit": "Verzenden",
+      "success": "Uw bericht is succesvol verzonden!",
+      "error": "Er is een fout opgetreden. Probeer het opnieuw."
+    },
+    "info": {
+      "phone": "Telefoon",
+      "email": "E-mail",
+      "address": "Adres"
+    }
+  },
+  "footer": {
+    "quickLinks": "Snelle Links",
+    "links": {
+      "home": "Home",
+      "services": "Diensten",
+      "contact": "Contact"
+    },
+    "legal": {
+      "privacy": "Privacybeleid",
+      "terms": "Algemene Voorwaarden",
+      "notice": "Juridische Kennisgeving"
+    },
+    "copyright": "© {year} Semecall. Alle rechten voorbehouden.",
+    "followUs": "Volg Ons"
+  }
+}
+

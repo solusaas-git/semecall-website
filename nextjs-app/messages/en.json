@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Home",
+    "mission": "Mission",
+    "approach": "Approach",
+    "expertise": "Expertise",
+    "results": "Results",
+    "contact": "Contact",
+    "cta1": "Contact Us",
+    "cta2": "Request a Demo"
+  },
+  "hero": {
+    "headline": "The Expert in Remote Sales Performance",
+    "subheadline": "We turn every interaction into a business opportunity through our remote sales expertise and tailor-made approach.",
+    "cta": "Explore Our Services"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "subtitle": "Who We Are",
+    "content": "At Semecall, our mission is to turn every interaction into a business opportunity. We trigger the purchase decision through our remote sales expertise and commitment to performance. Our philosophy is built on operational excellence and creating value for our clients.",
+    "value1": "Operational Excellence",
+    "value2": "Results-Oriented",
+    "value3": "Performance Commitment"
+  },
+  "approach": {
+    "title": "A Tailor-Made Approach",
+    "subtitle": "Your Success, Our Priority",
+    "content": "Every business is unique. That's why we build personalized strategies to maximize your return on investment. Our trained, engaged, and results-oriented team uses high-performance management and monitoring tools.",
+    "feature1": "Trained & Engaged Team",
+    "feature2": "Personalized Strategies",
+    "feature3": "High-Performance Tools",
+    "feature4": "Maximized ROI",
+    "cta": "Learn More"
+  },
+  "expertise": {
+    "title": "Our Expertise",
+    "subtitle": "Complete Services for Your Growth",
+    "services": {
+      "prospecting": {
+        "title": "B2B / B2C Prospecting",
+        "description": "Identification and qualification of high-potential prospects to develop your client portfolio."
+      },
+      "appointments": {
+        "title": "Qualified Appointment Setting",
+        "description": "Organization of qualified appointments with decision-makers to optimize your field sales force."
+      },
+      "followup": {
+        "title": "Sales Follow-up & Nurturing",
+        "description": "Supporting your prospects through their buying journey to maximize conversions."
+      },
+      "retention": {
+        "title": "Retention & Reactivation",
+        "description": "Maintaining customer relationships and reactivating your portfolio to optimize customer value."
+      },
+      "surveys": {
+        "title": "Satisfaction Surveys",
+        "description": "Measuring customer satisfaction and market research to guide your strategic decisions."
+      },
+      "support": {
+        "title": "Customer Support & Back Office",
+        "description": "Professional management of your customer relations and sales administrative support."
+      }
+    },
+    "cta": "See All Our Expertise"
+  },
+  "results": {
+    "title": "Tangible Results",
+    "subtitle": "The Effectiveness of Our Services in Numbers",
+    "benefits": {
+      "conversion": {
+        "title": "Optimized Conversion Rates",
+        "description": "Significant improvement in your conversion rates through our expertise."
+      },
+      "time": {
+        "title": "Time Savings",
+        "description": "Free your field teams to focus on closing sales."
+      },
+      "coverage": {
+        "title": "Extended Coverage",
+        "description": "Better coverage of your target markets and geographical expansion."
+      },
+      "brand": {
+        "title": "Stronger Brand Image",
+        "description": "Professional representation that enhances your brand image."
+      }
+    },
+    "cta": "Our Case Studies"
+  },
+  "trusted": {
+    "title": "Trusted By",
+    "subtitle": "Reference Partners"
+  },
+  "multilingual": {
+    "title": "Multilingual Coverage",
+    "subtitle": "International Reach",
+    "content": "Our multilingual team allows you to operate internationally with confidence. We cover your markets in multiple languages.",
+    "languages": {
+      "french": "French",
+      "english": "English",
+      "arabic": "Arabic",
+      "dutch": "Dutch",
+      "spanish": "Spanish",
+      "german": "German"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's Discuss Your Needs",
+    "cta": "Contact us today for a demo or a free audit of your business needs.",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "consent": "I agree that Semecall may use my data to contact me.",
+      "submit": "Send",
+      "success": "Your message has been sent successfully!",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "links": {
+      "home": "Home",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "notice": "Legal Notice"
+    },
+    "copyright": "© {year} Semecall. All rights reserved.",
+    "followUs": "Follow Us"
+  }
+}
+
