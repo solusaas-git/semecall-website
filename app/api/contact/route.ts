@@ -1,9 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
+import clientPromise from '@/lib/mongodb';
 
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { firstName, lastName, email, phone, message, consent } = body;
+    const { firstName, lastName, email, phone, company, message, consent } = body;
 
     // Validate required fields
     if (!firstName || !lastName || !email || !phone || !message || !consent) {
@@ -13,23 +14,22 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Here you would typically send an email or save to a database
-    // For now, we'll just log the data and return success
-    console.log('Contact form submission:', {
+    // Save to MongoDB
+    const client = await clientPromise;
+    const db = client.db('semecall');
+
+    const contactMessage = {
       firstName,
       lastName,
       email,
       phone,
+      company: company || null,
       message,
-      consent,
-      timestamp: new Date().toISOString()
-    });
+      status: 'new',
+      createdAt: new Date(),
+    };
 
-    // In production, you would integrate with an email service like:
-    // - SendGrid
-    // - AWS SES
-    // - Resend
-    // - Or save to a database
+    await db.collection('contacts').insertOne(contactMessage);
 
     return NextResponse.json(
       { success: true, message: 'Form submitted successfully' },

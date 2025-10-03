@@ -332,13 +332,21 @@ export default function Contact() {
               {errors.consent && <span className="text-red-400 text-sm">Required</span>}
 
               {submitStatus === 'success' && (
-                <div className="p-4 bg-green-500/20 border border-green-500/50 rounded-lg text-green-300">
+                <div className={`p-4 rounded-lg border ${
+                  theme === 'light'
+                    ? 'bg-green-50 border-green-200 text-green-800'
+                    : 'bg-green-500/20 border-green-500/50 text-green-300'
+                }`}>
                   {t('form.success')}
                 </div>
               )}
 
               {submitStatus === 'error' && (
-                <div className="p-4 bg-red-500/20 border border-red-500/50 rounded-lg text-red-300">
+                <div className={`p-4 rounded-lg border ${
+                  theme === 'light'
+                    ? 'bg-red-50 border-red-200 text-red-800'
+                    : 'bg-red-500/20 border-red-500/50 text-red-300'
+                }`}>
                   {t('form.error')}
                 </div>
               )}
